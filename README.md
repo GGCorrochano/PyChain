@@ -4,11 +4,7 @@ PyChain is a blockchain-based ledger system that allows partner banks to conduct
 
 # Usage
 
-PyChain was built by 
-
- 
-# Summary Report
-
+PyChain utilizes the Streamlit open-source Python library to deploy a user interface.
 
 # Visualization
 
